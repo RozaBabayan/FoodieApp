@@ -1,0 +1,45 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Oswald", sans-serif;
+  background-color: #e0f0ea;
+  /* background-color: #b1dd9e; */
+  /* background: url("images/beige.jpg") no-repeat center center fixed; 
+  background-size: cover; */
+  text-align: center;
+}
+
+
+#slogan {
+  font-family: "Quintessential", cursive;
+  font-size: 25px;
+  text-align: center;
+}
+
+#header-name {
+  font-family: "Quintessential", cursive;
+  font-size: 60px;
+  text-align: center;
+}
+
+#search-id {
+  margin-left: auto;
+  margin-right: auto;
+}
+.main-div {
+  position: relative;
+}
+
+/* #row_display {
+  background-color: whitesmoke;
+} */
+.title {
+  text-align: center;
+}
+
+.footer {
+  height: 50px;
+  margin-top: 200px;
+}
+
